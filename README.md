@@ -1,5 +1,7 @@
 # ZOMATO SQL PROJECT 
 
+![image](
+
 ## Project Overview
 This project focuses on a comprehensive analysis of a Zomato dataset using SQL. The primary goal is to extract data-driven insights that will help in understanding business operations, customer behavior, and restaurant performance. By leveraging SQL for this analysis, we aim to provide actionable information to improve business strategy.
 
