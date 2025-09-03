@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,city,opening_hours
+REST001,"Edwin, Barad and Boase",Bhagalpur,10:00 AM - 10:00 PM
+REST002,"Mani, Choudhary and Garde",Kakinada,10:00 AM - 10:00 PM
+REST003,"Sethi, Thaker and Borde",Farrukhabad,10:00 AM - 10:00 PM
+REST004,Brar LLC,Dindigul,10:00 AM - 10:00 PM
+REST005,"Garde, Koshy and Sinha",Loni,10:00 AM - 10:00 PM
+REST006,Bhakta Inc,Tiruvottiyur,10:00 AM - 10:00 PM
+REST007,"Varkey, Date and Shah",Kollam,10:00 AM - 10:00 PM
+REST008,Raman and Sons,Firozabad,10:00 AM - 10:00 PM
+REST009,Chander Group,Shimoga,10:00 AM - 10:00 PM
+REST010,Batra-Devan,Mirzapur,10:00 AM - 10:00 PM
+REST011,Sandhu LLC,Eluru,10:00 AM - 10:00 PM
+REST012,Barad Ltd,Dharmavaram,10:00 AM - 10:00 PM
+REST013,Chandran and Sons,Aligarh,10:00 AM - 10:00 PM
+REST014,"Som, Saha and Char",Kurnool,10:00 AM - 10:00 PM
+REST015,Balakrishnan-Sharma,Akola,10:00 AM - 10:00 PM
+REST016,Issac and Sons,Vijayanagaram,10:00 AM - 10:00 PM
+REST017,"Shetty, Shere and Kale",Nanded,10:00 AM - 10:00 PM
+REST018,Mann and Sons,Nagercoil,10:00 AM - 10:00 PM
+REST019,"Lalla, Kota and Choudhury",Naihati,10:00 AM - 10:00 PM
+REST020,Sarma Ltd,Nizamabad,10:00 AM - 10:00 PM
