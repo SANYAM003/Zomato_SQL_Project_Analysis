@@ -785,3 +785,27 @@ on o.restaurant_id = r.restaurant_id
 group by r.city;
 
 ```
+
+
+#Reports
+
+1. Database Schema: Detailed table structures and relationships between tables.
+2. Data Analysis: Finding Insights into Customers, Restaurants, riders, Deliveries of orders .
+3. Summary Reports: Aggregated data on customers orders and riders perfomance for delivery.
+
+
+#Conclusionn
+
+This project demonstrates how SQL can be leveraged to clean, manage, and analyze real-world datasets like Zomato’s restaurant data.
+Through different queries, joins, and aggregations, valuable business insights were extracted such as:
+
+1. Identifying top-performing restaurants and cuisines.
+2. Understanding customer preferences by location.
+3. Analyzing cost trends and delivery patterns.
+4.Highlighting the relationship between votes and ratings.
+
+The project not only strengthens SQL concepts but also showcases how data-driven insights can support business strategy and decision-making in the food delivery industry.
+ 
+                                                                  
+																  
+**----------------------------------------------------------------END OF REPORT--------------------------------------------------------------------------------**
