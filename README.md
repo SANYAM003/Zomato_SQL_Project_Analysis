@@ -802,7 +802,7 @@ Through different queries, joins, and aggregations, valuable business insights w
 1. Identifying top-performing restaurants and cuisines.
 2. Understanding customer preferences by location.
 3. Analyzing cost trends and delivery patterns.
-4.Highlighting the relationship between votes and ratings.
+4. Highlighting the relationship between votes and ratings.
 
 The project not only strengthens SQL concepts but also showcases how data-driven insights can support business strategy and decision-making in the food delivery industry.
  
